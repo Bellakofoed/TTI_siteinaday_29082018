@@ -77,6 +77,8 @@ nav a {
     background-color: white;
     color: black;
     padding: 10px; 
+    border-radius: 10px;
+    transition:  5s;
 }
 
 nav a:hover {

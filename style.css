@@ -111,4 +111,8 @@ nav a:hover {
     .item {
         background-color: purple;
     }
+
+    h2 {
+        font-family: 'Shadows Into Light Two', cursive;
+    }
 }

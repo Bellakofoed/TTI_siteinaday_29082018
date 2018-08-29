@@ -60,3 +60,7 @@ main {
     margin-left: auto;
     margin-right: auto;
 }
+
+.item li {
+    margin-left:30px;
+}

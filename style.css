@@ -18,3 +18,12 @@ body {
     font-family: arial, sans-serif;
     background-color:orange;
 }
+
+header {
+    background-color: gray;
+}
+
+header,
+footer {
+    text-align:center;
+}
